@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name" >Meu Primeiro App Dio</string>
+    <string name="app_msg" >Bem vindos ao Meu primeiro App com tradução</string>
+    <string name="app_msg2">Aproveitar como divulgar meu LinkedIn https://www.linkedin.com/in/esdrasccs/</string>
 </resources>
